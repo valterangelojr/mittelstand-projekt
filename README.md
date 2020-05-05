@@ -15,7 +15,7 @@ Data Sources:
 
 ■ TradeMap – International Trade Center
 
-■ ComexStat – Ministériod da Economia - Brasil
+■ ComexStat – Ministério da Economia - Brasil
 
 ■ Deutsche Bundesbank - Eurosystem
 
