@@ -12,7 +12,11 @@ The current database offers the raw figures for the annalysis of the economic re
 Data Sources:
 
 ■ UN Comtrade - International Trade Statistics
+
 ■ TradeMap – International Trade Center
+
 ■ ComexStat – Ministériod da Economia - Brasil
+
 ■ Deutsche Bundesbank - Eurosystem
+
 ■ Banco Central do Brasil – Dados IED
